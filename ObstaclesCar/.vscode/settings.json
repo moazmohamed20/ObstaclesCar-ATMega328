@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "motors.h": "c",
+        "gpio.h": "c",
+        "ultrasonic.h": "c",
+        "interrupt.h": "c"
+    }
+}
